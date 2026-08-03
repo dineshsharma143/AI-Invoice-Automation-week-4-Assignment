@@ -1,0 +1,501 @@
+Invoice_ID,Invoice_Date,Vendor_Name,Invoice_Number,Category,Description,Amount_USD,Tax_USD,Total_USD,Payment_Method,Due_Date,Status
+INV00001,2026-03-09,City Electricity,NO1002,Utilities,Electricity Bill,594.96,59.5,654.46,Credit Card,2026-03-24,Overdue
+INV00002,2026-05-27,Nepal Telecom,NO1003,Internet,Internet,705.93,70.59,776.52,Bank Transfer,2026-06-11,Paid
+INV00003,2026-06-26,Cleaning Services,NO1004,Maintenance,Cleaning,696.14,69.61,765.75,Bank Transfer,2026-07-11,Paid
+INV00004,2026-02-04,Cleaning Services,NO1005,Maintenance,Cleaning,281.51,28.15,309.66,Cash,2026-02-19,Pending
+INV00005,2026-03-12,City Electricity,NO1006,Utilities,Electricity Bill,787.2,78.72,865.92,Credit Card,2026-03-27,Paid
+INV00006,2026-05-15,Zoom,NO1007,Software,Zoom Subscription,195.84,19.58,215.42,Cash,2026-05-30,Overdue
+INV00007,2026-02-02,ABC Office Supplies,NO1008,Office Supplies,Printer Paper,199.74,19.97,219.71,Credit Card,2026-02-17,Pending
+INV00008,2026-06-23,Nepal Telecom,NO1009,Internet,Internet,241.24,24.12,265.36,Credit Card,2026-07-08,Pending
+INV00009,2026-04-18,City Electricity,NO1010,Utilities,Electricity Bill,985.82,98.58,1084.4,Online,2026-05-03,Paid
+INV00010,2026-06-02,ABC Office Supplies,NO1011,Office Supplies,Printer Paper,570.01,57,627.01,Online,2026-06-17,Overdue
+INV00011,2026-05-12,Cleaning Services,NO1012,Maintenance,Cleaning,1473.38,147.34,1620.72,Cash,2026-05-27,Pending
+INV00012,2026-05-13,Cleaning Services,NO1013,Maintenance,Cleaning,203.65,20.37,224.02,Cash,2026-05-28,Overdue
+INV00013,2026-02-04,DHL,NO1014,Shipping,Courier,903.67,90.37,994.04,Credit Card,2026-02-19,Pending
+INV00014,2026-02-21,ABC Office Supplies,NO1015,Office Supplies,Printer Paper,681.34,68.13,749.47,Cash,2026-03-08,Overdue
+INV00015,2026-01-08,Zoom,NO1016,Software,Zoom Subscription,602.76,60.28,663.04,Bank Transfer,2026-01-23,Pending
+INV00016,2026-03-12,City Electricity,NO1017,Utilities,Electricity Bill,404.41,40.44,444.85,Credit Card,2026-03-27,Paid
+INV00017,2026-06-08,DHL,NO1018,Shipping,Courier,702.16,70.22,772.38,Credit Card,2026-06-23,Overdue
+INV00018,2026-06-20,DHL,NO1019,Shipping,Courier,409.9,40.99,450.89,Online,2026-07-05,Overdue
+INV00019,2026-01-06,Fuel Station,NO1020,Travel,Fuel,298.47,29.85,328.32,Cash,2026-01-21,Overdue
+INV00020,2026-01-04,DHL,NO1021,Shipping,Courier,89.41,8.94,98.35,Online,2026-01-19,Paid
+INV00021,2026-02-28,Fuel Station,NO1022,Travel,Fuel,1088.23,108.82,1197.05,Online,2026-03-15,Paid
+INV00022,2026-05-05,Fuel Station,NO1023,Travel,Fuel,717.73,71.77,789.5,Credit Card,2026-05-20,Pending
+INV00023,2026-04-01,Cleaning Services,NO1024,Maintenance,Cleaning,877.35,87.74,965.09,Online,2026-04-16,Pending
+INV00024,2026-05-14,DHL,NO1025,Shipping,Courier,284.08,28.41,312.49,Online,2026-05-29,Pending
+INV00025,2026-05-04,DHL,NO1026,Shipping,Courier,128.1,12.81,140.91,Cash,2026-05-19,Pending
+INV00026,2026-06-30,DHL,NO1027,Shipping,Courier,985.26,98.53,1083.79,Bank Transfer,2026-07-15,Paid
+INV00027,2026-01-07,Cleaning Services,NO1028,Maintenance,Cleaning,878.01,87.8,965.81,Credit Card,2026-01-22,Paid
+INV00028,2026-01-31,Cleaning Services,NO1029,Maintenance,Cleaning,774.31,77.43,851.74,Cash,2026-02-15,Pending
+INV00029,2026-02-05,DHL,NO1030,Shipping,Courier,54.2,5.42,59.62,Credit Card,2026-02-20,Paid
+INV00030,2026-01-27,City Electricity,NO1031,Utilities,Electricity Bill,657.98,65.8,723.78,Cash,2026-02-11,Paid
+INV00031,2026-01-21,Nepal Telecom,NO1032,Internet,Internet,1215.72,121.57,1337.29,Cash,2026-02-05,Overdue
+INV00032,2026-06-24,Nepal Telecom,NO1033,Internet,Internet,1333.76,133.38,1467.14,Credit Card,2026-07-09,Paid
+INV00033,2026-02-17,Dell Store,NO1034,Equipment,Laptop,59.83,5.98,65.81,Online,2026-03-04,Pending
+INV00034,2026-04-18,Microsoft,NO1035,Software,Microsoft 365,931.6,93.16,1024.76,Online,2026-05-03,Pending
+INV00035,2026-01-07,Fuel Station,NO1036,Travel,Fuel,645.06,64.51,709.57,Bank Transfer,2026-01-22,Overdue
+INV00036,2026-04-04,ABC Office Supplies,NO1037,Office Supplies,Printer Paper,331.75,33.18,364.93,Bank Transfer,2026-04-19,Paid
+INV00037,2026-02-17,Zoom,NO1038,Software,Zoom Subscription,468.6,46.86,515.46,Bank Transfer,2026-03-04,Paid
+INV00038,2026-04-26,ABC Office Supplies,NO1039,Office Supplies,Printer Paper,572.78,57.28,630.06,Credit Card,2026-05-11,Paid
+INV00039,2026-01-05,Fuel Station,NO1040,Travel,Fuel,1283,128.3,1411.3,Credit Card,2026-01-20,Overdue
+INV00040,2026-02-21,ABC Office Supplies,NO1041,Office Supplies,Printer Paper,1041.78,104.18,1145.96,Credit Card,2026-03-08,Pending
+INV00041,2026-06-07,ABC Office Supplies,NO1042,Office Supplies,Printer Paper,1381.76,138.18,1519.94,Online,2026-06-22,Overdue
+INV00042,2026-01-24,Microsoft,NO1043,Software,Microsoft 365,1314.96,131.5,1446.46,Cash,2026-02-08,Pending
+INV00043,2026-05-23,Zoom,NO1044,Software,Zoom Subscription,762.21,76.22,838.43,Bank Transfer,2026-06-07,Pending
+INV00044,2026-04-01,Zoom,NO1045,Software,Zoom Subscription,1337.24,133.72,1470.96,Bank Transfer,2026-04-16,Pending
+INV00045,2026-02-25,Zoom,NO1046,Software,Zoom Subscription,1473.3,147.33,1620.63,Credit Card,2026-03-12,Overdue
+INV00046,2026-05-16,ABC Office Supplies,NO1047,Office Supplies,Printer Paper,489.06,48.91,537.97,Online,2026-05-31,Pending
+INV00047,2026-04-07,Dell Store,NO1048,Equipment,Laptop,726.95,72.7,799.65,Cash,2026-04-22,Overdue
+INV00048,2026-05-07,Zoom,NO1049,Software,Zoom Subscription,299.7,29.97,329.67,Bank Transfer,2026-05-22,Pending
+INV00049,2026-06-04,City Electricity,NO1050,Utilities,Electricity Bill,502.02,50.2,552.22,Credit Card,2026-06-19,Pending
+INV00050,2026-03-03,Nepal Telecom,NO1051,Internet,Internet,696.01,69.6,765.61,Cash,2026-03-18,Overdue
+INV00051,2026-02-27,Dell Store,NO1052,Equipment,Laptop,558.85,55.89,614.74,Cash,2026-03-14,Pending
+INV00052,2026-05-09,Nepal Telecom,NO1053,Internet,Internet,188.09,18.81,206.9,Cash,2026-05-24,Overdue
+INV00053,2026-06-19,ABC Office Supplies,NO1054,Office Supplies,Printer Paper,1404.42,140.44,1544.86,Online,2026-07-04,Paid
+INV00054,2026-04-15,Microsoft,NO1055,Software,Microsoft 365,638.78,63.88,702.66,Bank Transfer,2026-04-30,Overdue
+INV00055,2026-06-26,City Electricity,NO1056,Utilities,Electricity Bill,125.46,12.55,138.01,Credit Card,2026-07-11,Pending
+INV00056,2026-02-09,City Electricity,NO1057,Utilities,Electricity Bill,1357.42,135.74,1493.16,Online,2026-02-24,Paid
+INV00057,2026-04-17,City Electricity,NO1058,Utilities,Electricity Bill,724.29,72.43,796.72,Bank Transfer,2026-05-02,Overdue
+INV00058,2026-01-29,DHL,NO1059,Shipping,Courier,470.17,47.02,517.19,Cash,2026-02-13,Pending
+INV00059,2026-06-24,Nepal Telecom,NO1060,Internet,Internet,869.42,86.94,956.36,Online,2026-07-09,Paid
+INV00060,2026-05-03,DHL,NO1061,Shipping,Courier,880.78,88.08,968.86,Cash,2026-05-18,Paid
+INV00061,2026-06-25,Zoom,NO1062,Software,Zoom Subscription,658.71,65.87,724.58,Bank Transfer,2026-07-10,Paid
+INV00062,2026-01-20,Nepal Telecom,NO1063,Internet,Internet,907.32,90.73,998.05,Credit Card,2026-02-04,Overdue
+INV00063,2026-05-07,Fuel Station,NO1064,Travel,Fuel,354.75,35.48,390.23,Cash,2026-05-22,Pending
+INV00064,2026-05-31,Nepal Telecom,NO1065,Internet,Internet,936.25,93.62,1029.87,Cash,2026-06-15,Pending
+INV00065,2026-04-07,Fuel Station,NO1066,Travel,Fuel,633.94,63.39,697.33,Cash,2026-04-22,Paid
+INV00066,2026-05-13,Dell Store,NO1067,Equipment,Laptop,225.4,22.54,247.94,Credit Card,2026-05-28,Overdue
+INV00067,2026-03-07,Dell Store,NO1068,Equipment,Laptop,1044.11,104.41,1148.52,Credit Card,2026-03-22,Paid
+INV00068,2026-03-15,DHL,NO1069,Shipping,Courier,568.96,56.9,625.86,Online,2026-03-30,Overdue
+INV00069,2026-04-28,Fuel Station,NO1070,Travel,Fuel,48.95,4.9,53.85,Bank Transfer,2026-05-13,Overdue
+INV00070,2026-03-16,Cleaning Services,NO1071,Maintenance,Cleaning,1067.35,106.73,1174.08,Cash,2026-03-31,Paid
+INV00071,2026-01-19,Zoom,NO1072,Software,Zoom Subscription,358.26,35.83,394.09,Credit Card,2026-02-03,Paid
+INV00072,2026-05-21,Zoom,NO1073,Software,Zoom Subscription,1406.22,140.62,1546.84,Credit Card,2026-06-05,Paid
+INV00073,2026-04-27,ABC Office Supplies,NO1074,Office Supplies,Printer Paper,1096.66,109.67,1206.33,Online,2026-05-12,Pending
+INV00074,2026-02-19,Zoom,NO1075,Software,Zoom Subscription,1426,142.6,1568.6,Credit Card,2026-03-06,Paid
+INV00075,2026-05-09,DHL,NO1076,Shipping,Courier,20.6,2.06,22.66,Credit Card,2026-05-24,Paid
+INV00076,2026-01-22,City Electricity,NO1077,Utilities,Electricity Bill,1392.57,139.26,1531.83,Cash,2026-02-06,Paid
+INV00077,2026-02-27,City Electricity,NO1078,Utilities,Electricity Bill,52.21,5.22,57.43,Online,2026-03-14,Overdue
+INV00078,2026-05-01,City Electricity,NO1079,Utilities,Electricity Bill,1080.8,108.08,1188.88,Credit Card,2026-05-16,Pending
+INV00079,2026-06-30,Zoom,NO1080,Software,Zoom Subscription,1131.96,113.2,1245.16,Online,2026-07-15,Overdue
+INV00080,2026-01-05,ABC Office Supplies,NO1081,Office Supplies,Printer Paper,214.65,21.47,236.12,Bank Transfer,2026-01-20,Pending
+INV00081,2026-06-03,Cleaning Services,NO1082,Maintenance,Cleaning,951.5,95.15,1046.65,Credit Card,2026-06-18,Pending
+INV00082,2026-03-03,Nepal Telecom,NO1083,Internet,Internet,1083,108.3,1191.3,Credit Card,2026-03-18,Pending
+INV00083,2026-01-17,DHL,NO1084,Shipping,Courier,1471.27,147.13,1618.4,Cash,2026-02-01,Pending
+INV00084,2026-01-10,Zoom,NO1085,Software,Zoom Subscription,507.73,50.77,558.5,Bank Transfer,2026-01-25,Pending
+INV00085,2026-05-15,Dell Store,NO1086,Equipment,Laptop,46.94,4.69,51.63,Cash,2026-05-30,Overdue
+INV00086,2026-04-05,Microsoft,NO1087,Software,Microsoft 365,631.62,63.16,694.78,Cash,2026-04-20,Paid
+INV00087,2026-06-24,City Electricity,NO1088,Utilities,Electricity Bill,456.94,45.69,502.63,Credit Card,2026-07-09,Overdue
+INV00088,2026-03-29,Zoom,NO1089,Software,Zoom Subscription,1392.46,139.25,1531.71,Online,2026-04-13,Paid
+INV00089,2026-03-30,DHL,NO1090,Shipping,Courier,180.64,18.06,198.7,Cash,2026-04-14,Paid
+INV00090,2026-01-01,City Electricity,NO1091,Utilities,Electricity Bill,595.24,59.52,654.76,Bank Transfer,2026-01-16,Overdue
+INV00091,2026-04-25,Microsoft,NO1092,Software,Microsoft 365,1488.44,148.84,1637.28,Online,2026-05-10,Pending
+INV00092,2026-02-23,Nepal Telecom,NO1093,Internet,Internet,1281.69,128.17,1409.86,Cash,2026-03-10,Overdue
+INV00093,2026-01-02,Dell Store,NO1094,Equipment,Laptop,398.81,39.88,438.69,Online,2026-01-17,Overdue
+INV00094,2026-03-19,Nepal Telecom,NO1095,Internet,Internet,173.66,17.37,191.03,Bank Transfer,2026-04-03,Pending
+INV00095,2026-06-03,Microsoft,NO1096,Software,Microsoft 365,196.97,19.7,216.67,Credit Card,2026-06-18,Pending
+INV00096,2026-05-10,Cleaning Services,NO1097,Maintenance,Cleaning,494.64,49.46,544.1,Online,2026-05-25,Overdue
+INV00097,2026-02-18,Nepal Telecom,NO1098,Internet,Internet,1164.42,116.44,1280.86,Cash,2026-03-05,Paid
+INV00098,2026-01-14,DHL,NO1099,Shipping,Courier,783.59,78.36,861.95,Cash,2026-01-29,Pending
+INV00099,2026-01-07,Zoom,NO1100,Software,Zoom Subscription,24.62,2.46,27.08,Bank Transfer,2026-01-22,Pending
+INV00100,2026-06-13,City Electricity,NO1101,Utilities,Electricity Bill,159.44,15.94,175.38,Credit Card,2026-06-28,Paid
+INV00101,2026-01-24,DHL,NO1102,Shipping,Courier,349.86,34.99,384.85,Bank Transfer,2026-02-08,Pending
+INV00102,2026-01-15,City Electricity,NO1103,Utilities,Electricity Bill,477.57,47.76,525.33,Credit Card,2026-01-30,Paid
+INV00103,2026-04-28,City Electricity,NO1104,Utilities,Electricity Bill,65.27,6.53,71.8,Cash,2026-05-13,Overdue
+INV00104,2026-02-09,Fuel Station,NO1105,Travel,Fuel,1288.8,128.88,1417.68,Online,2026-02-24,Pending
+INV00105,2026-01-29,Nepal Telecom,NO1106,Internet,Internet,992.87,99.29,1092.16,Online,2026-02-13,Paid
+INV00106,2026-05-11,Microsoft,NO1107,Software,Microsoft 365,355.42,35.54,390.96,Bank Transfer,2026-05-26,Overdue
+INV00107,2026-04-11,Fuel Station,NO1108,Travel,Fuel,996.07,99.61,1095.68,Credit Card,2026-04-26,Paid
+INV00108,2026-03-02,DHL,NO1109,Shipping,Courier,1435.88,143.59,1579.47,Bank Transfer,2026-03-17,Overdue
+INV00109,2026-04-29,Microsoft,NO1110,Software,Microsoft 365,433.28,43.33,476.61,Online,2026-05-14,Overdue
+INV00110,2026-02-16,ABC Office Supplies,NO1111,Office Supplies,Printer Paper,1487.09,148.71,1635.8,Bank Transfer,2026-03-03,Overdue
+INV00111,2026-05-22,Cleaning Services,NO1112,Maintenance,Cleaning,837.57,83.76,921.33,Bank Transfer,2026-06-06,Overdue
+INV00112,2026-05-02,ABC Office Supplies,NO1113,Office Supplies,Printer Paper,924.28,92.43,1016.71,Cash,2026-05-17,Pending
+INV00113,2026-05-18,DHL,NO1114,Shipping,Courier,1158.45,115.85,1274.3,Cash,2026-06-02,Pending
+INV00114,2026-02-14,Fuel Station,NO1115,Travel,Fuel,1098.27,109.83,1208.1,Online,2026-03-01,Overdue
+INV00115,2026-04-28,Nepal Telecom,NO1116,Internet,Internet,305.85,30.59,336.44,Credit Card,2026-05-13,Pending
+INV00116,2026-02-23,Fuel Station,NO1117,Travel,Fuel,1039.59,103.96,1143.55,Cash,2026-03-10,Overdue
+INV00117,2026-04-15,Zoom,NO1118,Software,Zoom Subscription,93.08,9.31,102.39,Cash,2026-04-30,Overdue
+INV00118,2026-03-11,City Electricity,NO1119,Utilities,Electricity Bill,638.84,63.88,702.72,Bank Transfer,2026-03-26,Overdue
+INV00119,2026-01-07,City Electricity,NO1120,Utilities,Electricity Bill,1301.07,130.11,1431.18,Credit Card,2026-01-22,Pending
+INV00120,2026-03-27,Nepal Telecom,NO1121,Internet,Internet,958.45,95.85,1054.3,Cash,2026-04-11,Paid
+INV00121,2026-02-16,City Electricity,NO1122,Utilities,Electricity Bill,902.74,90.27,993.01,Cash,2026-03-03,Paid
+INV00122,2026-02-21,Zoom,NO1123,Software,Zoom Subscription,624.35,62.44,686.79,Online,2026-03-08,Paid
+INV00123,2026-05-26,Cleaning Services,NO1124,Maintenance,Cleaning,991.52,99.15,1090.67,Credit Card,2026-06-10,Paid
+INV00124,2026-04-04,City Electricity,NO1125,Utilities,Electricity Bill,32.7,3.27,35.97,Online,2026-04-19,Paid
+INV00125,2026-03-24,Nepal Telecom,NO1126,Internet,Internet,939.52,93.95,1033.47,Credit Card,2026-04-08,Paid
+INV00126,2026-03-08,Zoom,NO1127,Software,Zoom Subscription,1075.12,107.51,1182.63,Online,2026-03-23,Overdue
+INV00127,2026-02-12,City Electricity,NO1128,Utilities,Electricity Bill,1195.11,119.51,1314.62,Online,2026-02-27,Overdue
+INV00128,2026-05-27,Zoom,NO1129,Software,Zoom Subscription,194.13,19.41,213.54,Bank Transfer,2026-06-11,Overdue
+INV00129,2026-04-30,Zoom,NO1130,Software,Zoom Subscription,922.73,92.27,1015,Credit Card,2026-05-15,Paid
+INV00130,2026-04-20,Nepal Telecom,NO1131,Internet,Internet,582.59,58.26,640.85,Credit Card,2026-05-05,Pending
+INV00131,2026-01-20,Nepal Telecom,NO1132,Internet,Internet,1270.65,127.07,1397.72,Online,2026-02-04,Paid
+INV00132,2026-06-16,Zoom,NO1133,Software,Zoom Subscription,366.42,36.64,403.06,Cash,2026-07-01,Paid
+INV00133,2026-02-24,Microsoft,NO1134,Software,Microsoft 365,1041.31,104.13,1145.44,Cash,2026-03-11,Paid
+INV00134,2026-03-16,Zoom,NO1135,Software,Zoom Subscription,862.37,86.24,948.61,Online,2026-03-31,Paid
+INV00135,2026-05-20,ABC Office Supplies,NO1136,Office Supplies,Printer Paper,354.47,35.45,389.92,Bank Transfer,2026-06-04,Paid
+INV00136,2026-05-11,Nepal Telecom,NO1137,Internet,Internet,769.44,76.94,846.38,Cash,2026-05-26,Pending
+INV00137,2026-04-08,City Electricity,NO1138,Utilities,Electricity Bill,1241.29,124.13,1365.42,Bank Transfer,2026-04-23,Overdue
+INV00138,2026-05-12,Zoom,NO1139,Software,Zoom Subscription,954.06,95.41,1049.47,Bank Transfer,2026-05-27,Pending
+INV00139,2026-04-25,Nepal Telecom,NO1140,Internet,Internet,717.51,71.75,789.26,Bank Transfer,2026-05-10,Overdue
+INV00140,2026-01-12,City Electricity,NO1141,Utilities,Electricity Bill,1304.04,130.4,1434.44,Bank Transfer,2026-01-27,Pending
+INV00141,2026-01-28,Dell Store,NO1142,Equipment,Laptop,715.08,71.51,786.59,Online,2026-02-12,Overdue
+INV00142,2026-06-22,Nepal Telecom,NO1143,Internet,Internet,842.93,84.29,927.22,Bank Transfer,2026-07-07,Paid
+INV00143,2026-05-12,Zoom,NO1144,Software,Zoom Subscription,617.7,61.77,679.47,Credit Card,2026-05-27,Overdue
+INV00144,2026-06-18,Nepal Telecom,NO1145,Internet,Internet,845.04,84.5,929.54,Bank Transfer,2026-07-03,Overdue
+INV00145,2026-06-05,City Electricity,NO1146,Utilities,Electricity Bill,921.64,92.16,1013.8,Cash,2026-06-20,Overdue
+INV00146,2026-04-29,City Electricity,NO1147,Utilities,Electricity Bill,825.04,82.5,907.54,Online,2026-05-14,Overdue
+INV00147,2026-02-08,Fuel Station,NO1148,Travel,Fuel,1086.31,108.63,1194.94,Bank Transfer,2026-02-23,Paid
+INV00148,2026-01-12,Dell Store,NO1149,Equipment,Laptop,775.91,77.59,853.5,Bank Transfer,2026-01-27,Overdue
+INV00149,2026-03-18,Fuel Station,NO1150,Travel,Fuel,308.32,30.83,339.15,Credit Card,2026-04-02,Paid
+INV00150,2026-03-28,ABC Office Supplies,NO1151,Office Supplies,Printer Paper,775.74,77.57,853.31,Online,2026-04-12,Paid
+INV00151,2026-02-01,City Electricity,NO1152,Utilities,Electricity Bill,140.64,14.06,154.7,Cash,2026-02-16,Overdue
+INV00152,2026-03-27,Dell Store,NO1153,Equipment,Laptop,395.83,39.58,435.41,Online,2026-04-11,Overdue
+INV00153,2026-01-21,Nepal Telecom,NO1154,Internet,Internet,426.42,42.64,469.06,Online,2026-02-05,Paid
+INV00154,2026-04-19,ABC Office Supplies,NO1155,Office Supplies,Printer Paper,242.83,24.28,267.11,Online,2026-05-04,Overdue
+INV00155,2026-02-14,Dell Store,NO1156,Equipment,Laptop,444.05,44.41,488.46,Credit Card,2026-03-01,Paid
+INV00156,2026-05-06,Zoom,NO1157,Software,Zoom Subscription,1220.88,122.09,1342.97,Cash,2026-05-21,Overdue
+INV00157,2026-04-12,ABC Office Supplies,NO1158,Office Supplies,Printer Paper,821.7,82.17,903.87,Credit Card,2026-04-27,Paid
+INV00158,2026-02-06,Zoom,NO1159,Software,Zoom Subscription,194.26,19.43,213.69,Bank Transfer,2026-02-21,Paid
+INV00159,2026-02-07,Microsoft,NO1160,Software,Microsoft 365,751.65,75.17,826.82,Bank Transfer,2026-02-22,Paid
+INV00160,2026-01-31,Cleaning Services,NO1161,Maintenance,Cleaning,1212.55,121.25,1333.8,Online,2026-02-15,Pending
+INV00161,2026-02-13,DHL,NO1162,Shipping,Courier,267.78,26.78,294.56,Bank Transfer,2026-02-28,Pending
+INV00162,2026-06-15,Dell Store,NO1163,Equipment,Laptop,92.79,9.28,102.07,Cash,2026-06-30,Paid
+INV00163,2026-03-30,Fuel Station,NO1164,Travel,Fuel,777.82,77.78,855.6,Bank Transfer,2026-04-14,Pending
+INV00164,2026-04-15,Microsoft,NO1165,Software,Microsoft 365,1230.19,123.02,1353.21,Cash,2026-04-30,Pending
+INV00165,2026-02-24,Microsoft,NO1166,Software,Microsoft 365,806.28,80.63,886.91,Cash,2026-03-11,Pending
+INV00166,2026-01-23,Zoom,NO1167,Software,Zoom Subscription,426.9,42.69,469.59,Online,2026-02-07,Pending
+INV00167,2026-02-25,Microsoft,NO1168,Software,Microsoft 365,374.86,37.49,412.35,Credit Card,2026-03-12,Pending
+INV00168,2026-02-07,Nepal Telecom,NO1169,Internet,Internet,449.01,44.9,493.91,Cash,2026-02-22,Pending
+INV00169,2026-06-12,City Electricity,NO1170,Utilities,Electricity Bill,140.22,14.02,154.24,Bank Transfer,2026-06-27,Pending
+INV00170,2026-02-22,Dell Store,NO1171,Equipment,Laptop,812.15,81.22,893.37,Online,2026-03-09,Overdue
+INV00171,2026-06-24,DHL,NO1172,Shipping,Courier,795.11,79.51,874.62,Bank Transfer,2026-07-09,Paid
+INV00172,2026-06-18,Fuel Station,NO1173,Travel,Fuel,234.7,23.47,258.17,Online,2026-07-03,Pending
+INV00173,2026-01-11,Microsoft,NO1174,Software,Microsoft 365,917.73,91.77,1009.5,Online,2026-01-26,Paid
+INV00174,2026-02-28,Cleaning Services,NO1175,Maintenance,Cleaning,1278.83,127.88,1406.71,Cash,2026-03-15,Paid
+INV00175,2026-02-16,Nepal Telecom,NO1176,Internet,Internet,428.42,42.84,471.26,Bank Transfer,2026-03-03,Pending
+INV00176,2026-04-17,City Electricity,NO1177,Utilities,Electricity Bill,388.75,38.88,427.63,Cash,2026-05-02,Overdue
+INV00177,2026-04-21,Cleaning Services,NO1178,Maintenance,Cleaning,1226.31,122.63,1348.94,Cash,2026-05-06,Paid
+INV00178,2026-03-07,Fuel Station,NO1179,Travel,Fuel,76.14,7.61,83.75,Credit Card,2026-03-22,Overdue
+INV00179,2026-01-05,City Electricity,NO1180,Utilities,Electricity Bill,674.48,67.45,741.93,Credit Card,2026-01-20,Paid
+INV00180,2026-05-19,Cleaning Services,NO1181,Maintenance,Cleaning,24.71,2.47,27.18,Credit Card,2026-06-03,Paid
+INV00181,2026-04-21,ABC Office Supplies,NO1182,Office Supplies,Printer Paper,684.65,68.47,753.12,Online,2026-05-06,Pending
+INV00182,2026-02-27,Microsoft,NO1183,Software,Microsoft 365,1486.85,148.69,1635.54,Cash,2026-03-14,Overdue
+INV00183,2026-04-27,City Electricity,NO1184,Utilities,Electricity Bill,1423.43,142.34,1565.77,Online,2026-05-12,Paid
+INV00184,2026-05-26,Microsoft,NO1185,Software,Microsoft 365,22.27,2.23,24.5,Online,2026-06-10,Paid
+INV00185,2026-01-12,Microsoft,NO1186,Software,Microsoft 365,137,13.7,150.7,Bank Transfer,2026-01-27,Overdue
+INV00186,2026-06-18,DHL,NO1187,Shipping,Courier,305.2,30.52,335.72,Credit Card,2026-07-03,Paid
+INV00187,2026-04-26,Zoom,NO1188,Software,Zoom Subscription,829.15,82.92,912.07,Bank Transfer,2026-05-11,Pending
+INV00188,2026-05-03,Dell Store,NO1189,Equipment,Laptop,483.22,48.32,531.54,Credit Card,2026-05-18,Overdue
+INV00189,2026-01-31,City Electricity,NO1190,Utilities,Electricity Bill,559.37,55.94,615.31,Online,2026-02-15,Paid
+INV00190,2026-03-24,Fuel Station,NO1191,Travel,Fuel,734.36,73.44,807.8,Cash,2026-04-08,Paid
+INV00191,2026-05-07,Cleaning Services,NO1192,Maintenance,Cleaning,459.79,45.98,505.77,Online,2026-05-22,Pending
+INV00192,2026-06-20,Fuel Station,NO1193,Travel,Fuel,999.26,99.93,1099.19,Bank Transfer,2026-07-05,Pending
+INV00193,2026-06-23,Zoom,NO1194,Software,Zoom Subscription,163.08,16.31,179.39,Online,2026-07-08,Pending
+INV00194,2026-04-21,DHL,NO1195,Shipping,Courier,1393.47,139.35,1532.82,Credit Card,2026-05-06,Paid
+INV00195,2026-06-29,Zoom,NO1196,Software,Zoom Subscription,519.37,51.94,571.31,Bank Transfer,2026-07-14,Overdue
+INV00196,2026-03-11,Microsoft,NO1197,Software,Microsoft 365,253.7,25.37,279.07,Credit Card,2026-03-26,Overdue
+INV00197,2026-04-29,Dell Store,NO1198,Equipment,Laptop,488.51,48.85,537.36,Cash,2026-05-14,Paid
+INV00198,2026-06-05,ABC Office Supplies,NO1199,Office Supplies,Printer Paper,1207.07,120.71,1327.78,Online,2026-06-20,Pending
+INV00199,2026-06-29,Microsoft,NO1200,Software,Microsoft 365,1455.61,145.56,1601.17,Bank Transfer,2026-07-14,Paid
+INV00200,2026-02-10,Fuel Station,NO1201,Travel,Fuel,571.17,57.12,628.29,Cash,2026-02-25,Overdue
+INV00201,2026-01-13,Dell Store,NO1202,Equipment,Laptop,63.96,6.4,70.36,Online,2026-01-28,Paid
+INV00202,2026-02-13,City Electricity,NO1203,Utilities,Electricity Bill,41.47,4.15,45.62,Online,2026-02-28,Paid
+INV00203,2026-02-08,Dell Store,NO1204,Equipment,Laptop,477.68,47.77,525.45,Online,2026-02-23,Pending
+INV00204,2026-01-28,ABC Office Supplies,NO1205,Office Supplies,Printer Paper,114.71,11.47,126.18,Cash,2026-02-12,Overdue
+INV00205,2026-05-29,Zoom,NO1206,Software,Zoom Subscription,1098.93,109.89,1208.82,Credit Card,2026-06-13,Pending
+INV00206,2026-06-14,Nepal Telecom,NO1207,Internet,Internet,969.04,96.9,1065.94,Cash,2026-06-29,Pending
+INV00207,2026-06-01,City Electricity,NO1208,Utilities,Electricity Bill,1026.99,102.7,1129.69,Cash,2026-06-16,Paid
+INV00208,2026-03-01,Zoom,NO1209,Software,Zoom Subscription,1411.54,141.15,1552.69,Bank Transfer,2026-03-16,Paid
+INV00209,2026-02-04,City Electricity,NO1210,Utilities,Electricity Bill,809.62,80.96,890.58,Online,2026-02-19,Pending
+INV00210,2026-01-19,Nepal Telecom,NO1211,Internet,Internet,1289.5,128.95,1418.45,Cash,2026-02-03,Paid
+INV00211,2026-04-18,Microsoft,NO1212,Software,Microsoft 365,768.86,76.89,845.75,Cash,2026-05-03,Pending
+INV00212,2026-03-11,Nepal Telecom,NO1213,Internet,Internet,643.93,64.39,708.32,Credit Card,2026-03-26,Pending
+INV00213,2026-01-22,DHL,NO1214,Shipping,Courier,1293.14,129.31,1422.45,Online,2026-02-06,Pending
+INV00214,2026-05-23,Nepal Telecom,NO1215,Internet,Internet,842.29,84.23,926.52,Cash,2026-06-07,Paid
+INV00215,2026-03-12,Dell Store,NO1216,Equipment,Laptop,1322.45,132.25,1454.7,Online,2026-03-27,Pending
+INV00216,2026-02-02,Zoom,NO1217,Software,Zoom Subscription,875.59,87.56,963.15,Credit Card,2026-02-17,Paid
+INV00217,2026-03-11,City Electricity,NO1218,Utilities,Electricity Bill,1249.27,124.93,1374.2,Online,2026-03-26,Pending
+INV00218,2026-05-28,City Electricity,NO1219,Utilities,Electricity Bill,737.76,73.78,811.54,Credit Card,2026-06-12,Overdue
+INV00219,2026-06-03,ABC Office Supplies,NO1220,Office Supplies,Printer Paper,1354.92,135.49,1490.41,Bank Transfer,2026-06-18,Overdue
+INV00220,2026-02-23,DHL,NO1221,Shipping,Courier,1253.29,125.33,1378.62,Cash,2026-03-10,Paid
+INV00221,2026-03-16,Microsoft,NO1222,Software,Microsoft 365,616.85,61.69,678.54,Bank Transfer,2026-03-31,Pending
+INV00222,2026-02-04,ABC Office Supplies,NO1223,Office Supplies,Printer Paper,1103.77,110.38,1214.15,Cash,2026-02-19,Overdue
+INV00223,2026-01-29,Fuel Station,NO1224,Travel,Fuel,1456.45,145.65,1602.1,Cash,2026-02-13,Overdue
+INV00224,2026-03-27,Fuel Station,NO1225,Travel,Fuel,886.64,88.66,975.3,Online,2026-04-11,Overdue
+INV00225,2026-04-27,Cleaning Services,NO1226,Maintenance,Cleaning,463.22,46.32,509.54,Online,2026-05-12,Overdue
+INV00226,2026-01-18,Microsoft,NO1227,Software,Microsoft 365,93.95,9.4,103.35,Bank Transfer,2026-02-02,Paid
+INV00227,2026-06-17,Dell Store,NO1228,Equipment,Laptop,894.84,89.48,984.32,Online,2026-07-02,Overdue
+INV00228,2026-04-29,Nepal Telecom,NO1229,Internet,Internet,366.07,36.61,402.68,Online,2026-05-14,Overdue
+INV00229,2026-03-21,Zoom,NO1230,Software,Zoom Subscription,1167.99,116.8,1284.79,Bank Transfer,2026-04-05,Paid
+INV00230,2026-05-04,ABC Office Supplies,NO1231,Office Supplies,Printer Paper,627.34,62.73,690.07,Cash,2026-05-19,Paid
+INV00231,2026-05-21,Fuel Station,NO1232,Travel,Fuel,1395.23,139.52,1534.75,Bank Transfer,2026-06-05,Pending
+INV00232,2026-04-23,Zoom,NO1233,Software,Zoom Subscription,186.32,18.63,204.95,Online,2026-05-08,Overdue
+INV00233,2026-02-25,Fuel Station,NO1234,Travel,Fuel,484.72,48.47,533.19,Cash,2026-03-12,Overdue
+INV00234,2026-02-19,Nepal Telecom,NO1235,Internet,Internet,1238.9,123.89,1362.79,Cash,2026-03-06,Overdue
+INV00235,2026-06-25,Zoom,NO1236,Software,Zoom Subscription,1433.13,143.31,1576.44,Online,2026-07-10,Pending
+INV00236,2026-01-04,City Electricity,NO1237,Utilities,Electricity Bill,325.07,32.51,357.58,Bank Transfer,2026-01-19,Paid
+INV00237,2026-06-02,ABC Office Supplies,NO1238,Office Supplies,Printer Paper,625.31,62.53,687.84,Credit Card,2026-06-17,Paid
+INV00238,2026-03-19,Zoom,NO1239,Software,Zoom Subscription,368.66,36.87,405.53,Online,2026-04-03,Pending
+INV00239,2026-02-08,DHL,NO1240,Shipping,Courier,232.65,23.27,255.92,Credit Card,2026-02-23,Paid
+INV00240,2026-01-05,ABC Office Supplies,NO1241,Office Supplies,Printer Paper,276.69,27.67,304.36,Online,2026-01-20,Paid
+INV00241,2026-05-16,DHL,NO1242,Shipping,Courier,1485.91,148.59,1634.5,Bank Transfer,2026-05-31,Pending
+INV00242,2026-04-22,Nepal Telecom,NO1243,Internet,Internet,726.65,72.67,799.32,Online,2026-05-07,Paid
+INV00243,2026-02-12,Fuel Station,NO1244,Travel,Fuel,1043.81,104.38,1148.19,Bank Transfer,2026-02-27,Paid
+INV00244,2026-01-07,Cleaning Services,NO1245,Maintenance,Cleaning,430.57,43.06,473.63,Credit Card,2026-01-22,Overdue
+INV00245,2026-02-28,Microsoft,NO1246,Software,Microsoft 365,1197.29,119.73,1317.02,Credit Card,2026-03-15,Overdue
+INV00246,2026-02-26,City Electricity,NO1247,Utilities,Electricity Bill,1406.29,140.63,1546.92,Online,2026-03-13,Overdue
+INV00247,2026-04-19,Microsoft,NO1248,Software,Microsoft 365,1414.78,141.48,1556.26,Credit Card,2026-05-04,Pending
+INV00248,2026-06-14,Microsoft,NO1249,Software,Microsoft 365,1353.55,135.35,1488.9,Credit Card,2026-06-29,Paid
+INV00249,2026-03-10,Microsoft,NO1250,Software,Microsoft 365,1102.1,110.21,1212.31,Cash,2026-03-25,Paid
+INV00250,2026-03-26,Dell Store,NO1251,Equipment,Laptop,378.18,37.82,416,Bank Transfer,2026-04-10,Pending
+INV00251,2026-03-30,Fuel Station,NO1252,Travel,Fuel,661.35,66.14,727.49,Bank Transfer,2026-04-14,Paid
+INV00252,2026-06-28,Dell Store,NO1253,Equipment,Laptop,467.93,46.79,514.72,Credit Card,2026-07-13,Overdue
+INV00253,2026-01-30,Fuel Station,NO1254,Travel,Fuel,1338.14,133.81,1471.95,Credit Card,2026-02-14,Paid
+INV00254,2026-05-30,Nepal Telecom,NO1255,Internet,Internet,176.17,17.62,193.79,Credit Card,2026-06-14,Paid
+INV00255,2026-05-13,DHL,NO1256,Shipping,Courier,212.87,21.29,234.16,Cash,2026-05-28,Paid
+INV00256,2026-04-11,Fuel Station,NO1257,Travel,Fuel,459.7,45.97,505.67,Credit Card,2026-04-26,Overdue
+INV00257,2026-05-07,Fuel Station,NO1258,Travel,Fuel,254.05,25.41,279.46,Online,2026-05-22,Overdue
+INV00258,2026-04-01,Zoom,NO1259,Software,Zoom Subscription,1257.89,125.79,1383.68,Cash,2026-04-16,Pending
+INV00259,2026-06-21,Dell Store,NO1260,Equipment,Laptop,314.1,31.41,345.51,Credit Card,2026-07-06,Paid
+INV00260,2026-02-06,Dell Store,NO1261,Equipment,Laptop,467.23,46.72,513.95,Online,2026-02-21,Overdue
+INV00261,2026-05-18,ABC Office Supplies,NO1262,Office Supplies,Printer Paper,1339.17,133.92,1473.09,Credit Card,2026-06-02,Paid
+INV00262,2026-06-13,ABC Office Supplies,NO1263,Office Supplies,Printer Paper,1453.98,145.4,1599.38,Online,2026-06-28,Pending
+INV00263,2026-06-27,Dell Store,NO1264,Equipment,Laptop,846.54,84.65,931.19,Credit Card,2026-07-12,Paid
+INV00264,2026-02-27,Nepal Telecom,NO1265,Internet,Internet,947.81,94.78,1042.59,Bank Transfer,2026-03-14,Pending
+INV00265,2026-02-18,DHL,NO1266,Shipping,Courier,61.29,6.13,67.42,Cash,2026-03-05,Paid
+INV00266,2026-02-12,DHL,NO1267,Shipping,Courier,322.06,32.21,354.27,Bank Transfer,2026-02-27,Pending
+INV00267,2026-05-06,DHL,NO1268,Shipping,Courier,1418.22,141.82,1560.04,Cash,2026-05-21,Overdue
+INV00268,2026-02-14,Fuel Station,NO1269,Travel,Fuel,580.35,58.04,638.39,Credit Card,2026-03-01,Pending
+INV00269,2026-01-25,Dell Store,NO1270,Equipment,Laptop,349.25,34.93,384.18,Bank Transfer,2026-02-09,Overdue
+INV00270,2026-06-07,City Electricity,NO1271,Utilities,Electricity Bill,1450.83,145.08,1595.91,Cash,2026-06-22,Pending
+INV00271,2026-06-29,Microsoft,NO1272,Software,Microsoft 365,924.3,92.43,1016.73,Credit Card,2026-07-14,Paid
+INV00272,2026-01-02,DHL,NO1273,Shipping,Courier,628.31,62.83,691.14,Bank Transfer,2026-01-17,Pending
+INV00273,2026-05-02,DHL,NO1274,Shipping,Courier,1323.84,132.38,1456.22,Bank Transfer,2026-05-17,Paid
+INV00274,2026-01-22,DHL,NO1275,Shipping,Courier,857.04,85.7,942.74,Bank Transfer,2026-02-06,Paid
+INV00275,2026-01-08,Dell Store,NO1276,Equipment,Laptop,1052.37,105.24,1157.61,Cash,2026-01-23,Pending
+INV00276,2026-06-01,Microsoft,NO1277,Software,Microsoft 365,844.54,84.45,928.99,Cash,2026-06-16,Overdue
+INV00277,2026-04-30,Zoom,NO1278,Software,Zoom Subscription,238.97,23.9,262.87,Credit Card,2026-05-15,Pending
+INV00278,2026-04-03,DHL,NO1279,Shipping,Courier,677.9,67.79,745.69,Credit Card,2026-04-18,Paid
+INV00279,2026-02-24,DHL,NO1280,Shipping,Courier,387.22,38.72,425.94,Cash,2026-03-11,Paid
+INV00280,2026-05-12,Zoom,NO1281,Software,Zoom Subscription,811.46,81.15,892.61,Cash,2026-05-27,Paid
+INV00281,2026-04-10,ABC Office Supplies,NO1282,Office Supplies,Printer Paper,929.44,92.94,1022.38,Credit Card,2026-04-25,Pending
+INV00282,2026-02-23,Dell Store,NO1283,Equipment,Laptop,638.08,63.81,701.89,Bank Transfer,2026-03-10,Paid
+INV00283,2026-02-05,Dell Store,NO1284,Equipment,Laptop,517.4,51.74,569.14,Credit Card,2026-02-20,Pending
+INV00284,2026-01-07,Microsoft,NO1285,Software,Microsoft 365,463.49,46.35,509.84,Cash,2026-01-22,Overdue
+INV00285,2026-03-15,Zoom,NO1286,Software,Zoom Subscription,391.08,39.11,430.19,Cash,2026-03-30,Overdue
+INV00286,2026-01-25,Fuel Station,NO1287,Travel,Fuel,1028.3,102.83,1131.13,Online,2026-02-09,Paid
+INV00287,2026-03-23,Nepal Telecom,NO1288,Internet,Internet,769.56,76.96,846.52,Cash,2026-04-07,Overdue
+INV00288,2026-05-07,ABC Office Supplies,NO1289,Office Supplies,Printer Paper,657.67,65.77,723.44,Cash,2026-05-22,Overdue
+INV00289,2026-04-26,DHL,NO1290,Shipping,Courier,70.08,7.01,77.09,Credit Card,2026-05-11,Overdue
+INV00290,2026-06-23,Dell Store,NO1291,Equipment,Laptop,1333.29,133.33,1466.62,Cash,2026-07-08,Pending
+INV00291,2026-03-29,DHL,NO1292,Shipping,Courier,1327.46,132.75,1460.21,Online,2026-04-13,Paid
+INV00292,2026-03-01,Cleaning Services,NO1293,Maintenance,Cleaning,344.58,34.46,379.04,Cash,2026-03-16,Pending
+INV00293,2026-01-12,Microsoft,NO1294,Software,Microsoft 365,242.36,24.24,266.6,Cash,2026-01-27,Pending
+INV00294,2026-01-26,Microsoft,NO1295,Software,Microsoft 365,772.51,77.25,849.76,Bank Transfer,2026-02-10,Pending
+INV00295,2026-06-20,Dell Store,NO1296,Equipment,Laptop,45.5,4.55,50.05,Bank Transfer,2026-07-05,Overdue
+INV00296,2026-02-07,DHL,NO1297,Shipping,Courier,1498.38,149.84,1648.22,Online,2026-02-22,Pending
+INV00297,2026-01-06,DHL,NO1298,Shipping,Courier,1118.61,111.86,1230.47,Bank Transfer,2026-01-21,Pending
+INV00298,2026-05-29,Nepal Telecom,NO1299,Internet,Internet,827.89,82.79,910.68,Cash,2026-06-13,Pending
+INV00299,2026-05-25,Nepal Telecom,NO1300,Internet,Internet,689.6,68.96,758.56,Cash,2026-06-09,Pending
+INV00300,2026-04-04,Zoom,NO1301,Software,Zoom Subscription,238.81,23.88,262.69,Bank Transfer,2026-04-19,Pending
+INV00301,2026-05-11,Fuel Station,NO1302,Travel,Fuel,223.16,22.32,245.48,Cash,2026-05-26,Pending
+INV00302,2026-03-13,Zoom,NO1303,Software,Zoom Subscription,238.46,23.85,262.31,Online,2026-03-28,Overdue
+INV00303,2026-01-26,DHL,NO1304,Shipping,Courier,1067.72,106.77,1174.49,Bank Transfer,2026-02-10,Pending
+INV00304,2026-05-15,Microsoft,NO1305,Software,Microsoft 365,82.88,8.29,91.17,Online,2026-05-30,Pending
+INV00305,2026-03-27,Zoom,NO1306,Software,Zoom Subscription,59.84,5.98,65.82,Online,2026-04-11,Pending
+INV00306,2026-04-28,Zoom,NO1307,Software,Zoom Subscription,1154.79,115.48,1270.27,Cash,2026-05-13,Paid
+INV00307,2026-05-28,Zoom,NO1308,Software,Zoom Subscription,409.68,40.97,450.65,Bank Transfer,2026-06-12,Pending
+INV00308,2026-03-24,Dell Store,NO1309,Equipment,Laptop,1009.39,100.94,1110.33,Bank Transfer,2026-04-08,Paid
+INV00309,2026-05-29,DHL,NO1310,Shipping,Courier,1329.6,132.96,1462.56,Cash,2026-06-13,Overdue
+INV00310,2026-06-05,City Electricity,NO1311,Utilities,Electricity Bill,431.4,43.14,474.54,Credit Card,2026-06-20,Pending
+INV00311,2026-02-11,Fuel Station,NO1312,Travel,Fuel,281.39,28.14,309.53,Cash,2026-02-26,Overdue
+INV00312,2026-05-18,City Electricity,NO1313,Utilities,Electricity Bill,312.38,31.24,343.62,Online,2026-06-02,Paid
+INV00313,2026-02-26,City Electricity,NO1314,Utilities,Electricity Bill,467.87,46.79,514.66,Online,2026-03-13,Pending
+INV00314,2026-04-28,City Electricity,NO1315,Utilities,Electricity Bill,1137.13,113.71,1250.84,Credit Card,2026-05-13,Overdue
+INV00315,2026-01-24,Fuel Station,NO1316,Travel,Fuel,1102.33,110.23,1212.56,Credit Card,2026-02-08,Overdue
+INV00316,2026-04-21,DHL,NO1317,Shipping,Courier,1190.5,119.05,1309.55,Cash,2026-05-06,Paid
+INV00317,2026-01-07,Dell Store,NO1318,Equipment,Laptop,1429.8,142.98,1572.78,Bank Transfer,2026-01-22,Paid
+INV00318,2026-01-21,City Electricity,NO1319,Utilities,Electricity Bill,1411.77,141.18,1552.95,Bank Transfer,2026-02-05,Paid
+INV00319,2026-06-03,Zoom,NO1320,Software,Zoom Subscription,151.33,15.13,166.46,Bank Transfer,2026-06-18,Paid
+INV00320,2026-06-19,Cleaning Services,NO1321,Maintenance,Cleaning,86.21,8.62,94.83,Cash,2026-07-04,Pending
+INV00321,2026-05-23,Zoom,NO1322,Software,Zoom Subscription,1081.57,108.16,1189.73,Credit Card,2026-06-07,Paid
+INV00322,2026-06-17,Fuel Station,NO1323,Travel,Fuel,359.85,35.99,395.84,Cash,2026-07-02,Overdue
+INV00323,2026-06-27,Nepal Telecom,NO1324,Internet,Internet,614.92,61.49,676.41,Bank Transfer,2026-07-12,Pending
+INV00324,2026-04-15,ABC Office Supplies,NO1325,Office Supplies,Printer Paper,797.48,79.75,877.23,Credit Card,2026-04-30,Pending
+INV00325,2026-06-10,Microsoft,NO1326,Software,Microsoft 365,909.6,90.96,1000.56,Cash,2026-06-25,Overdue
+INV00326,2026-02-05,Nepal Telecom,NO1327,Internet,Internet,68.1,6.81,74.91,Online,2026-02-20,Pending
+INV00327,2026-06-25,Microsoft,NO1328,Software,Microsoft 365,1103.43,110.34,1213.77,Cash,2026-07-10,Overdue
+INV00328,2026-01-17,Microsoft,NO1329,Software,Microsoft 365,156.73,15.67,172.4,Bank Transfer,2026-02-01,Pending
+INV00329,2026-01-02,Cleaning Services,NO1330,Maintenance,Cleaning,1439.99,144,1583.99,Bank Transfer,2026-01-17,Pending
+INV00330,2026-05-09,City Electricity,NO1331,Utilities,Electricity Bill,813.7,81.37,895.07,Cash,2026-05-24,Pending
+INV00331,2026-02-01,DHL,NO1332,Shipping,Courier,67.86,6.79,74.65,Credit Card,2026-02-16,Overdue
+INV00332,2026-04-24,Cleaning Services,NO1333,Maintenance,Cleaning,1444.41,144.44,1588.85,Online,2026-05-09,Overdue
+INV00333,2026-06-18,Zoom,NO1334,Software,Zoom Subscription,1370.93,137.09,1508.02,Bank Transfer,2026-07-03,Overdue
+INV00334,2026-04-16,Zoom,NO1335,Software,Zoom Subscription,226.77,22.68,249.45,Bank Transfer,2026-05-01,Pending
+INV00335,2026-04-22,Cleaning Services,NO1336,Maintenance,Cleaning,473.67,47.37,521.04,Online,2026-05-07,Overdue
+INV00336,2026-03-03,Nepal Telecom,NO1337,Internet,Internet,498.3,49.83,548.13,Credit Card,2026-03-18,Paid
+INV00337,2026-05-03,Microsoft,NO1338,Software,Microsoft 365,419.97,42,461.97,Online,2026-05-18,Overdue
+INV00338,2026-06-18,City Electricity,NO1339,Utilities,Electricity Bill,1465.22,146.52,1611.74,Online,2026-07-03,Overdue
+INV00339,2026-04-13,Zoom,NO1340,Software,Zoom Subscription,1002.45,100.25,1102.7,Bank Transfer,2026-04-28,Paid
+INV00340,2026-01-03,ABC Office Supplies,NO1341,Office Supplies,Printer Paper,403.62,40.36,443.98,Credit Card,2026-01-18,Pending
+INV00341,2026-03-05,DHL,NO1342,Shipping,Courier,44.03,4.4,48.43,Bank Transfer,2026-03-20,Overdue
+INV00342,2026-06-30,Fuel Station,NO1343,Travel,Fuel,1211.85,121.19,1333.04,Cash,2026-07-15,Paid
+INV00343,2026-03-06,Dell Store,NO1344,Equipment,Laptop,903.62,90.36,993.98,Credit Card,2026-03-21,Overdue
+INV00344,2026-02-22,Fuel Station,NO1345,Travel,Fuel,1482.73,148.27,1631,Bank Transfer,2026-03-09,Overdue
+INV00345,2026-06-06,Nepal Telecom,NO1346,Internet,Internet,443.05,44.31,487.36,Credit Card,2026-06-21,Paid
+INV00346,2026-02-28,Nepal Telecom,NO1347,Internet,Internet,24.28,2.43,26.71,Bank Transfer,2026-03-15,Paid
+INV00347,2026-01-05,Zoom,NO1348,Software,Zoom Subscription,1310.99,131.1,1442.09,Online,2026-01-20,Paid
+INV00348,2026-03-31,Microsoft,NO1349,Software,Microsoft 365,260.12,26.01,286.13,Credit Card,2026-04-15,Paid
+INV00349,2026-03-09,Zoom,NO1350,Software,Zoom Subscription,1172.64,117.26,1289.9,Cash,2026-03-24,Overdue
+INV00350,2026-06-19,Zoom,NO1351,Software,Zoom Subscription,1244.45,124.45,1368.9,Online,2026-07-04,Paid
+INV00351,2026-05-12,Dell Store,NO1352,Equipment,Laptop,467.3,46.73,514.03,Bank Transfer,2026-05-27,Pending
+INV00352,2026-02-21,Zoom,NO1353,Software,Zoom Subscription,1435.45,143.55,1579,Bank Transfer,2026-03-08,Pending
+INV00353,2026-03-14,Microsoft,NO1354,Software,Microsoft 365,822.13,82.21,904.34,Cash,2026-03-29,Overdue
+INV00354,2026-05-16,Dell Store,NO1355,Equipment,Laptop,260.33,26.03,286.36,Credit Card,2026-05-31,Overdue
+INV00355,2026-06-10,Nepal Telecom,NO1356,Internet,Internet,1074.77,107.48,1182.25,Cash,2026-06-25,Paid
+INV00356,2026-03-01,Nepal Telecom,NO1357,Internet,Internet,302.58,30.26,332.84,Credit Card,2026-03-16,Overdue
+INV00357,2026-02-24,Nepal Telecom,NO1358,Internet,Internet,697,69.7,766.7,Credit Card,2026-03-11,Paid
+INV00358,2026-02-22,City Electricity,NO1359,Utilities,Electricity Bill,757.94,75.79,833.73,Online,2026-03-09,Paid
+INV00359,2026-04-14,City Electricity,NO1360,Utilities,Electricity Bill,1331.22,133.12,1464.34,Bank Transfer,2026-04-29,Paid
+INV00360,2026-06-17,City Electricity,NO1361,Utilities,Electricity Bill,699.32,69.93,769.25,Credit Card,2026-07-02,Overdue
+INV00361,2026-02-09,Nepal Telecom,NO1362,Internet,Internet,1366.1,136.61,1502.71,Online,2026-02-24,Paid
+INV00362,2026-04-25,DHL,NO1363,Shipping,Courier,600.93,60.09,661.02,Online,2026-05-10,Overdue
+INV00363,2026-01-28,ABC Office Supplies,NO1364,Office Supplies,Printer Paper,266.89,26.69,293.58,Bank Transfer,2026-02-12,Overdue
+INV00364,2026-02-25,City Electricity,NO1365,Utilities,Electricity Bill,1014.53,101.45,1115.98,Credit Card,2026-03-12,Pending
+INV00365,2026-04-10,Fuel Station,NO1366,Travel,Fuel,1327.7,132.77,1460.47,Credit Card,2026-04-25,Paid
+INV00366,2026-02-17,Zoom,NO1367,Software,Zoom Subscription,1456.52,145.65,1602.17,Online,2026-03-04,Paid
+INV00367,2026-03-07,Fuel Station,NO1368,Travel,Fuel,307.28,30.73,338.01,Online,2026-03-22,Pending
+INV00368,2026-05-16,Microsoft,NO1369,Software,Microsoft 365,1416.78,141.68,1558.46,Bank Transfer,2026-05-31,Pending
+INV00369,2026-03-02,Nepal Telecom,NO1370,Internet,Internet,794.78,79.48,874.26,Online,2026-03-17,Paid
+INV00370,2026-02-05,Fuel Station,NO1371,Travel,Fuel,132.43,13.24,145.67,Cash,2026-02-20,Paid
+INV00371,2026-01-07,DHL,NO1372,Shipping,Courier,692.21,69.22,761.43,Online,2026-01-22,Paid
+INV00372,2026-03-13,Nepal Telecom,NO1373,Internet,Internet,223.29,22.33,245.62,Credit Card,2026-03-28,Pending
+INV00373,2026-05-25,Fuel Station,NO1374,Travel,Fuel,310.59,31.06,341.65,Credit Card,2026-06-09,Overdue
+INV00374,2026-01-24,Microsoft,NO1375,Software,Microsoft 365,1184.76,118.48,1303.24,Bank Transfer,2026-02-08,Paid
+INV00375,2026-04-24,ABC Office Supplies,NO1376,Office Supplies,Printer Paper,750.97,75.1,826.07,Credit Card,2026-05-09,Pending
+INV00376,2026-06-20,DHL,NO1377,Shipping,Courier,886.83,88.68,975.51,Bank Transfer,2026-07-05,Overdue
+INV00377,2026-04-06,ABC Office Supplies,NO1378,Office Supplies,Printer Paper,384.17,38.42,422.59,Credit Card,2026-04-21,Paid
+INV00378,2026-06-07,ABC Office Supplies,NO1379,Office Supplies,Printer Paper,1156.69,115.67,1272.36,Cash,2026-06-22,Overdue
+INV00379,2026-03-13,Nepal Telecom,NO1380,Internet,Internet,1237.48,123.75,1361.23,Bank Transfer,2026-03-28,Paid
+INV00380,2026-01-16,City Electricity,NO1381,Utilities,Electricity Bill,160.3,16.03,176.33,Cash,2026-01-31,Paid
+INV00381,2026-03-16,Dell Store,NO1382,Equipment,Laptop,70.47,7.05,77.52,Cash,2026-03-31,Paid
+INV00382,2026-01-12,Zoom,NO1383,Software,Zoom Subscription,173.48,17.35,190.83,Online,2026-01-27,Overdue
+INV00383,2026-04-28,Nepal Telecom,NO1384,Internet,Internet,1223.95,122.4,1346.35,Online,2026-05-13,Pending
+INV00384,2026-06-18,Dell Store,NO1385,Equipment,Laptop,1127.32,112.73,1240.05,Bank Transfer,2026-07-03,Pending
+INV00385,2026-04-04,ABC Office Supplies,NO1386,Office Supplies,Printer Paper,880.81,88.08,968.89,Cash,2026-04-19,Overdue
+INV00386,2026-05-10,Dell Store,NO1387,Equipment,Laptop,1141.79,114.18,1255.97,Cash,2026-05-25,Paid
+INV00387,2026-04-15,DHL,NO1388,Shipping,Courier,528.63,52.86,581.49,Cash,2026-04-30,Overdue
+INV00388,2026-05-28,City Electricity,NO1389,Utilities,Electricity Bill,1151.52,115.15,1266.67,Online,2026-06-12,Paid
+INV00389,2026-04-29,Cleaning Services,NO1390,Maintenance,Cleaning,738.31,73.83,812.14,Cash,2026-05-14,Overdue
+INV00390,2026-06-28,Fuel Station,NO1391,Travel,Fuel,1262.7,126.27,1388.97,Online,2026-07-13,Pending
+INV00391,2026-05-26,Zoom,NO1392,Software,Zoom Subscription,201.02,20.1,221.12,Credit Card,2026-06-10,Paid
+INV00392,2026-06-08,Microsoft,NO1393,Software,Microsoft 365,534.09,53.41,587.5,Online,2026-06-23,Pending
+INV00393,2026-03-08,Fuel Station,NO1394,Travel,Fuel,700.35,70.04,770.39,Bank Transfer,2026-03-23,Overdue
+INV00394,2026-06-18,DHL,NO1395,Shipping,Courier,374.64,37.46,412.1,Bank Transfer,2026-07-03,Paid
+INV00395,2026-01-15,Dell Store,NO1396,Equipment,Laptop,60.33,6.03,66.36,Online,2026-01-30,Pending
+INV00396,2026-03-27,Fuel Station,NO1397,Travel,Fuel,1112.23,111.22,1223.45,Credit Card,2026-04-11,Pending
+INV00397,2026-04-19,Cleaning Services,NO1398,Maintenance,Cleaning,1321.43,132.14,1453.57,Cash,2026-05-04,Paid
+INV00398,2026-03-29,DHL,NO1399,Shipping,Courier,1202.85,120.28,1323.13,Credit Card,2026-04-13,Pending
+INV00399,2026-01-25,City Electricity,NO1400,Utilities,Electricity Bill,998.86,99.89,1098.75,Bank Transfer,2026-02-09,Pending
+INV00400,2026-05-07,ABC Office Supplies,NO1401,Office Supplies,Printer Paper,523.88,52.39,576.27,Online,2026-05-22,Overdue
+INV00401,2026-02-08,Cleaning Services,NO1402,Maintenance,Cleaning,799.58,79.96,879.54,Credit Card,2026-02-23,Paid
+INV00402,2026-05-18,Cleaning Services,NO1403,Maintenance,Cleaning,912.22,91.22,1003.44,Cash,2026-06-02,Pending
+INV00403,2026-06-24,Fuel Station,NO1404,Travel,Fuel,68.27,6.83,75.1,Credit Card,2026-07-09,Paid
+INV00404,2026-03-29,Cleaning Services,NO1405,Maintenance,Cleaning,750.1,75.01,825.11,Bank Transfer,2026-04-13,Pending
+INV00405,2026-02-23,Nepal Telecom,NO1406,Internet,Internet,66.77,6.68,73.45,Online,2026-03-10,Overdue
+INV00406,2026-06-18,Zoom,NO1407,Software,Zoom Subscription,1362.53,136.25,1498.78,Cash,2026-07-03,Paid
+INV00407,2026-06-16,Nepal Telecom,NO1408,Internet,Internet,1280.18,128.02,1408.2,Credit Card,2026-07-01,Overdue
+INV00408,2026-05-29,ABC Office Supplies,NO1409,Office Supplies,Printer Paper,506.72,50.67,557.39,Online,2026-06-13,Overdue
+INV00409,2026-03-26,Nepal Telecom,NO1410,Internet,Internet,34.66,3.47,38.13,Online,2026-04-10,Pending
+INV00410,2026-05-21,Dell Store,NO1411,Equipment,Laptop,585.05,58.5,643.55,Cash,2026-06-05,Paid
+INV00411,2026-05-16,Nepal Telecom,NO1412,Internet,Internet,824.2,82.42,906.62,Online,2026-05-31,Pending
+INV00412,2026-01-26,Fuel Station,NO1413,Travel,Fuel,1171.33,117.13,1288.46,Bank Transfer,2026-02-10,Overdue
+INV00413,2026-05-27,City Electricity,NO1414,Utilities,Electricity Bill,1375.49,137.55,1513.04,Cash,2026-06-11,Pending
+INV00414,2026-06-08,Nepal Telecom,NO1415,Internet,Internet,696.99,69.7,766.69,Online,2026-06-23,Paid
+INV00415,2026-05-16,DHL,NO1416,Shipping,Courier,131.73,13.17,144.9,Online,2026-05-31,Overdue
+INV00416,2026-03-20,ABC Office Supplies,NO1417,Office Supplies,Printer Paper,1186.74,118.67,1305.41,Credit Card,2026-04-04,Overdue
+INV00417,2026-04-21,ABC Office Supplies,NO1418,Office Supplies,Printer Paper,1071.77,107.18,1178.95,Credit Card,2026-05-06,Paid
+INV00418,2026-03-04,Zoom,NO1419,Software,Zoom Subscription,1279.63,127.96,1407.59,Online,2026-03-19,Overdue
+INV00419,2026-02-20,Zoom,NO1420,Software,Zoom Subscription,928.61,92.86,1021.47,Cash,2026-03-07,Pending
+INV00420,2026-02-02,ABC Office Supplies,NO1421,Office Supplies,Printer Paper,852.83,85.28,938.11,Online,2026-02-17,Pending
+INV00421,2026-06-10,Cleaning Services,NO1422,Maintenance,Cleaning,300.62,30.06,330.68,Bank Transfer,2026-06-25,Paid
+INV00422,2026-06-21,Zoom,NO1423,Software,Zoom Subscription,262.51,26.25,288.76,Bank Transfer,2026-07-06,Overdue
+INV00423,2026-04-03,Nepal Telecom,NO1424,Internet,Internet,256.02,25.6,281.62,Online,2026-04-18,Pending
+INV00424,2026-02-21,Dell Store,NO1425,Equipment,Laptop,347.73,34.77,382.5,Online,2026-03-08,Overdue
+INV00425,2026-04-24,City Electricity,NO1426,Utilities,Electricity Bill,637.37,63.74,701.11,Credit Card,2026-05-09,Overdue
+INV00426,2026-01-12,Fuel Station,NO1427,Travel,Fuel,801.62,80.16,881.78,Cash,2026-01-27,Paid
+INV00427,2026-06-27,ABC Office Supplies,NO1428,Office Supplies,Printer Paper,1490.87,149.09,1639.96,Online,2026-07-12,Pending
+INV00428,2026-03-28,Dell Store,NO1429,Equipment,Laptop,1417.65,141.77,1559.42,Bank Transfer,2026-04-12,Paid
+INV00429,2026-05-25,Cleaning Services,NO1430,Maintenance,Cleaning,274.72,27.47,302.19,Cash,2026-06-09,Paid
+INV00430,2026-02-16,ABC Office Supplies,NO1431,Office Supplies,Printer Paper,29.85,2.99,32.84,Credit Card,2026-03-03,Overdue
+INV00431,2026-02-19,ABC Office Supplies,NO1432,Office Supplies,Printer Paper,1112.51,111.25,1223.76,Bank Transfer,2026-03-06,Paid
+INV00432,2026-05-19,Zoom,NO1433,Software,Zoom Subscription,1217.2,121.72,1338.92,Cash,2026-06-03,Pending
+INV00433,2026-04-29,ABC Office Supplies,NO1434,Office Supplies,Printer Paper,1335.26,133.53,1468.79,Credit Card,2026-05-14,Overdue
+INV00434,2026-05-01,City Electricity,NO1435,Utilities,Electricity Bill,685.04,68.5,753.54,Credit Card,2026-05-16,Paid
+INV00435,2026-01-03,Cleaning Services,NO1436,Maintenance,Cleaning,1423.41,142.34,1565.75,Bank Transfer,2026-01-18,Pending
+INV00436,2026-05-31,Cleaning Services,NO1437,Maintenance,Cleaning,182.47,18.25,200.72,Online,2026-06-15,Overdue
+INV00437,2026-06-13,Zoom,NO1438,Software,Zoom Subscription,919,91.9,1010.9,Cash,2026-06-28,Paid
+INV00438,2026-06-02,Dell Store,NO1439,Equipment,Laptop,841.2,84.12,925.32,Bank Transfer,2026-06-17,Overdue
+INV00439,2026-02-01,City Electricity,NO1440,Utilities,Electricity Bill,1404.15,140.42,1544.57,Cash,2026-02-16,Paid
+INV00440,2026-05-15,ABC Office Supplies,NO1441,Office Supplies,Printer Paper,959.01,95.9,1054.91,Cash,2026-05-30,Paid
+INV00441,2026-01-24,ABC Office Supplies,NO1442,Office Supplies,Printer Paper,691.51,69.15,760.66,Cash,2026-02-08,Overdue
+INV00442,2026-06-25,ABC Office Supplies,NO1443,Office Supplies,Printer Paper,265.25,26.53,291.78,Online,2026-07-10,Pending
+INV00443,2026-05-30,Fuel Station,NO1444,Travel,Fuel,491.88,49.19,541.07,Online,2026-06-14,Pending
+INV00444,2026-05-23,Cleaning Services,NO1445,Maintenance,Cleaning,1068.03,106.8,1174.83,Cash,2026-06-07,Paid
+INV00445,2026-04-16,Fuel Station,NO1446,Travel,Fuel,1189.03,118.9,1307.93,Cash,2026-05-01,Pending
+INV00446,2026-05-06,Zoom,NO1447,Software,Zoom Subscription,441.16,44.12,485.28,Bank Transfer,2026-05-21,Overdue
+INV00447,2026-06-27,Dell Store,NO1448,Equipment,Laptop,1098.17,109.82,1207.99,Bank Transfer,2026-07-12,Paid
+INV00448,2026-04-29,Nepal Telecom,NO1449,Internet,Internet,538.08,53.81,591.89,Bank Transfer,2026-05-14,Pending
+INV00449,2026-06-06,Nepal Telecom,NO1450,Internet,Internet,284.31,28.43,312.74,Bank Transfer,2026-06-21,Overdue
+INV00450,2026-06-04,DHL,NO1451,Shipping,Courier,1172.32,117.23,1289.55,Credit Card,2026-06-19,Paid
+INV00451,2026-02-18,City Electricity,NO1452,Utilities,Electricity Bill,298.25,29.83,328.08,Online,2026-03-05,Pending
+INV00452,2026-02-16,ABC Office Supplies,NO1453,Office Supplies,Printer Paper,39.02,3.9,42.92,Online,2026-03-03,Overdue
+INV00453,2026-04-10,ABC Office Supplies,NO1454,Office Supplies,Printer Paper,666.2,66.62,732.82,Cash,2026-04-25,Paid
+INV00454,2026-04-01,Nepal Telecom,NO1455,Internet,Internet,479.31,47.93,527.24,Credit Card,2026-04-16,Pending
+INV00455,2026-02-10,DHL,NO1456,Shipping,Courier,1003.25,100.33,1103.58,Credit Card,2026-02-25,Overdue
+INV00456,2026-01-24,ABC Office Supplies,NO1457,Office Supplies,Printer Paper,1129.77,112.98,1242.75,Credit Card,2026-02-08,Overdue
+INV00457,2026-01-29,City Electricity,NO1458,Utilities,Electricity Bill,921.63,92.16,1013.79,Credit Card,2026-02-13,Paid
+INV00458,2026-04-23,Fuel Station,NO1459,Travel,Fuel,34.57,3.46,38.03,Bank Transfer,2026-05-08,Overdue
+INV00459,2026-03-24,Microsoft,NO1460,Software,Microsoft 365,891.09,89.11,980.2,Bank Transfer,2026-04-08,Paid
+INV00460,2026-05-08,Zoom,NO1461,Software,Zoom Subscription,1460.6,146.06,1606.66,Cash,2026-05-23,Overdue
+INV00461,2026-01-08,Fuel Station,NO1462,Travel,Fuel,1011.13,101.11,1112.24,Cash,2026-01-23,Pending
+INV00462,2026-04-07,Microsoft,NO1463,Software,Microsoft 365,202.37,20.24,222.61,Credit Card,2026-04-22,Overdue
+INV00463,2026-01-12,Zoom,NO1464,Software,Zoom Subscription,273.22,27.32,300.54,Bank Transfer,2026-01-27,Pending
+INV00464,2026-01-01,Cleaning Services,NO1465,Maintenance,Cleaning,595.87,59.59,655.46,Cash,2026-01-16,Overdue
+INV00465,2026-03-23,Microsoft,NO1466,Software,Microsoft 365,1286.74,128.67,1415.41,Online,2026-04-07,Pending
+INV00466,2026-05-07,Dell Store,NO1467,Equipment,Laptop,1052.72,105.27,1157.99,Cash,2026-05-22,Pending
+INV00467,2026-05-25,Nepal Telecom,NO1468,Internet,Internet,787.17,78.72,865.89,Cash,2026-06-09,Pending
+INV00468,2026-01-06,City Electricity,NO1469,Utilities,Electricity Bill,1121.48,112.15,1233.63,Bank Transfer,2026-01-21,Overdue
+INV00469,2026-01-01,Cleaning Services,NO1470,Maintenance,Cleaning,958.8,95.88,1054.68,Online,2026-01-16,Paid
+INV00470,2026-02-27,ABC Office Supplies,NO1471,Office Supplies,Printer Paper,1291.92,129.19,1421.11,Bank Transfer,2026-03-14,Pending
+INV00471,2026-06-18,Microsoft,NO1472,Software,Microsoft 365,1284.3,128.43,1412.73,Online,2026-07-03,Overdue
+INV00472,2026-02-28,DHL,NO1473,Shipping,Courier,1118.58,111.86,1230.44,Bank Transfer,2026-03-15,Paid
+INV00473,2026-04-13,Cleaning Services,NO1474,Maintenance,Cleaning,780.49,78.05,858.54,Bank Transfer,2026-04-28,Paid
+INV00474,2026-05-27,Cleaning Services,NO1475,Maintenance,Cleaning,257.39,25.74,283.13,Cash,2026-06-11,Paid
+INV00475,2026-02-07,ABC Office Supplies,NO1476,Office Supplies,Printer Paper,855.01,85.5,940.51,Bank Transfer,2026-02-22,Overdue
+INV00476,2026-01-03,Fuel Station,NO1477,Travel,Fuel,1108.04,110.8,1218.84,Online,2026-01-18,Paid
+INV00477,2026-06-28,Nepal Telecom,NO1478,Internet,Internet,1305.75,130.58,1436.33,Cash,2026-07-13,Paid
+INV00478,2026-05-29,Nepal Telecom,NO1479,Internet,Internet,443.48,44.35,487.83,Credit Card,2026-06-13,Paid
+INV00479,2026-05-14,Zoom,NO1480,Software,Zoom Subscription,1434.4,143.44,1577.84,Cash,2026-05-29,Overdue
+INV00480,2026-03-20,Zoom,NO1481,Software,Zoom Subscription,783.26,78.33,861.59,Bank Transfer,2026-04-04,Pending
+INV00481,2026-03-04,ABC Office Supplies,NO1482,Office Supplies,Printer Paper,818.95,81.9,900.85,Credit Card,2026-03-19,Overdue
+INV00482,2026-04-24,Cleaning Services,NO1483,Maintenance,Cleaning,817.25,81.73,898.98,Cash,2026-05-09,Overdue
+INV00483,2026-05-06,Cleaning Services,NO1484,Maintenance,Cleaning,1157.1,115.71,1272.81,Online,2026-05-21,Paid
+INV00484,2026-04-29,Nepal Telecom,NO1485,Internet,Internet,1249.59,124.96,1374.55,Credit Card,2026-05-14,Paid
+INV00485,2026-04-24,Microsoft,NO1486,Software,Microsoft 365,754.64,75.46,830.1,Credit Card,2026-05-09,Paid
+INV00486,2026-05-10,City Electricity,NO1487,Utilities,Electricity Bill,1062.16,106.22,1168.38,Credit Card,2026-05-25,Pending
+INV00487,2026-05-02,Nepal Telecom,NO1488,Internet,Internet,366.64,36.66,403.3,Credit Card,2026-05-17,Paid
+INV00488,2026-05-20,Fuel Station,NO1489,Travel,Fuel,426.23,42.62,468.85,Online,2026-06-04,Pending
+INV00489,2026-06-18,Zoom,NO1490,Software,Zoom Subscription,1024.79,102.48,1127.27,Cash,2026-07-03,Pending
+INV00490,2026-05-05,ABC Office Supplies,NO1491,Office Supplies,Printer Paper,1221.24,122.12,1343.36,Credit Card,2026-05-20,Paid
+INV00491,2026-05-29,Fuel Station,NO1492,Travel,Fuel,605.54,60.55,666.09,Credit Card,2026-06-13,Pending
+INV00492,2026-02-08,ABC Office Supplies,NO1493,Office Supplies,Printer Paper,770.93,77.09,848.02,Cash,2026-02-23,Pending
+INV00493,2026-05-01,Dell Store,NO1494,Equipment,Laptop,889.68,88.97,978.65,Online,2026-05-16,Overdue
+INV00494,2026-03-01,Microsoft,NO1495,Software,Microsoft 365,953.5,95.35,1048.85,Cash,2026-03-16,Pending
+INV00495,2026-02-01,Cleaning Services,NO1496,Maintenance,Cleaning,977.23,97.72,1074.95,Credit Card,2026-02-16,Paid
+INV00496,2026-02-23,ABC Office Supplies,NO1497,Office Supplies,Printer Paper,195.29,19.53,214.82,Credit Card,2026-03-10,Paid
+INV00497,2026-01-02,City Electricity,NO1498,Utilities,Electricity Bill,445.76,44.58,490.34,Credit Card,2026-01-17,Pending
+INV00498,2026-04-18,ABC Office Supplies,NO1499,Office Supplies,Printer Paper,781.19,78.12,859.31,Online,2026-05-03,Overdue
+INV00499,2026-05-07,ABC Office Supplies,NO1500,Office Supplies,Printer Paper,622.98,62.3,685.28,Bank Transfer,2026-05-22,Overdue
+INV00500,2026-01-23,Nepal Telecom,NO1501,Internet,Internet,321.14,32.11,353.25,Cash,2026-02-07,Pending
